@@ -17,3 +17,8 @@ Backend Developer / FHIR Developer / Open Source Lover / Educator
 If you have any idea, please leave your proposal via the following links.
 - Mail: ceo@sita.tech
 - Website: https://ceo.sita.tech
+
+## ATTENTION
+**Unless necessary, all of the repositories had transferred to my self-hosted GitLab.**
+
+**Thank you GitHub and FUCK YOU for mistakenly banned my original GitHub account.**
